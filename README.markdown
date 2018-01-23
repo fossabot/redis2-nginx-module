@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fredis2-nginx-module.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fredis2-nginx-module?ref=badge_shield)
+
 Name
 ====
 
@@ -761,3 +763,7 @@ SEE ALSO
 
 [Back to TOC](#table-of-contents)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fredis2-nginx-module.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fredis2-nginx-module?ref=badge_large)
